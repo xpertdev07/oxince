@@ -4,9 +4,7 @@
 
 | Project | Tasks |
 | - | - |
-| Bloodline Roleplay | Project Lead |
-| SummerV Roleplay | Project Lead |
-| Well Development | Project Lead |
+| Kidu's Scripts | Project Lead |
 
 ### Get in touch:
 * Discord: oxince#9999
