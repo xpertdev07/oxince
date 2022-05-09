@@ -1,11 +1,5 @@
 ### Hi guys, i'm oxince👋
 
-### Welcome to my GitHub Page!
-
-| Project | Tasks |
-| - | - |
-| Kidu's Scripts | Project Lead |
-
 ### Get in touch:
 * Discord: oxince#9999
 * Mail: b2b@oxince.tech
