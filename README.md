@@ -22,4 +22,4 @@
 ![oxince' GitHub stats](https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&langs_count=3&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&theme=tokyonight)
