@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=oxince)
 
 <h2>It's me, @oxince!</h2>
-<p><em>I'm a Self-taught full-stack developer</br>
+<p><em>a Self-taught full-stack developer</br>
 </em></p>
 
 
